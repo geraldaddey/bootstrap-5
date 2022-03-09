@@ -1,9 +1,13 @@
+:root {
+  margin: 20px;
+}
+
 .container {
   margin: 20px;
   background-color: bisque;
   text-align: center;
 }
 
-.text-container {
+.btn-container {
   text-align: center;
 }
