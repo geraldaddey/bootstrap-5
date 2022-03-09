@@ -1,3 +1,9 @@
 .container {
-  color: red;
+  margin: 20px;
+  background-color: bisque;
+  text-align: center;
+}
+
+.text-container {
+  text-align: center;
 }
